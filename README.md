@@ -9,6 +9,7 @@ We provide this tools for develop some project or service easier using Go Langua
 
 ### Directory Structure
 
+```bash
 📦your-project
  ┣ 📂app
  ┃ ┗ 📂config
@@ -25,6 +26,7 @@ We provide this tools for develop some project or service easier using Go Langua
  ┣ 📜.env.example
  ┣ 📜main.go
  ┗ 📜readme.md
+ ```
 
 ### How to Use
 
